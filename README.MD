@@ -1,5 +1,44 @@
+# English
+# AI-Generated eBook Project - DIO Challenge
 
-# Projeto EBOOK Gerado por I.A.s
+A project aimed at creating a digital eBook about Java for beginners, utilizing AI tools. All prompts are listed below.
+
+## 💻 Technologies Used in the Project
+
+- [ChatGPT](https://chat.openai.com/)
+- [Grok](https://grok.x.ai)
+- [Canva](https://www.canva.com)
+
+## 🧠 Prompts
+
+**Title**: Instruction 1 - Create a title for an eBook on the topic of Java, within the programming niche, specifically the Java sub-niche. The title should be epic, short, and have a nerdy and anime-themed vibe.  
+List 5 title variations.
+
+Instruction 2 - Now suggest 5 titles more aligned with The Lord of the Rings theme.
+
+**Content**: Create text for an eBook in Portuguese, with at least 5 chapters, focusing on Java for beginners, including code examples.  
+{RULES}  
+1) Always explain in a simple manner  
+2) Keep the text concise  
+3) Always provide code examples in real-world contexts  
+4) Always include a suggestive title for each topic  
+
+**Images**: Create an image of the Java icon in a Tolkien style.
+
+## ✨ Features
+
+- Content generated via Grok 3
+- Images generated via ChatGPT 4.0 (via DALL-E)
+- Image editing via Canva
+
+## 📚 Materials
+
+- Images used and generated are in `assets`
+- Generated eBook is in `output`
+
+######
+# Português
+# Projeto EBOOK Gerado por I.A.s - Desafio DIO
 
 Projeto com o objetivo de gerar um eBook digital sobre Java para iniciantes, utilizando ferramentas de IA. Todos os prompts seguem abaixo.
 
