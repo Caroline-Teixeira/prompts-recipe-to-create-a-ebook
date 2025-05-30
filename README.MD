@@ -1,5 +1,4 @@
-# English
-# AI-Generated eBook Project - DIO Challenge
+# AI-Generated eBook Project - DIO Challenge (ENG)
 
 A project aimed at creating a digital eBook about Java for beginners, utilizing AI tools. All prompts are listed below.
 
@@ -36,9 +35,9 @@ Instruction 2 - Now suggest 5 titles more aligned with The Lord of the Rings the
 - Images used and generated are in `assets`
 - Generated eBook is in `output`
 
-######
-# Português
-# Projeto EBOOK Gerado por I.A.s - Desafio DIO
+<br>
+
+# Projeto EBOOK Gerado por I.A.s - Desafio DIO (PR-BR)
 
 Projeto com o objetivo de gerar um eBook digital sobre Java para iniciantes, utilizando ferramentas de IA. Todos os prompts seguem abaixo.
 
